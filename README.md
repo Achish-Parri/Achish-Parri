@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Achish-Parri
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data analytics from Codebasics Bootcamp
+- 🌱 I’m currently learning Data Analytics from Codebasics Bootcamp
 - 📫 You can reach me via LinkedIn https://www.linkedin.com/in/achish-parri-2oo1/
 
 <!---
